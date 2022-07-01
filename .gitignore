@@ -1,0 +1,30 @@
+
+Templates/sasp-demo/\.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+.mvn/
+.idea/
+idea/
+
+
+# VS code
+.vscode/
+
+# just
+justfile
+
