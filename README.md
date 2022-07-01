@@ -1,0 +1,1 @@
+# gyakorlat_2022
